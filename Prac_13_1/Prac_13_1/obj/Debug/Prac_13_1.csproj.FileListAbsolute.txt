@@ -1,0 +1,7 @@
+D:\2 Семестр\Основы алг\Prac_13_1\Prac_13_1\bin\Debug\Prac_13_1.exe.config
+D:\2 Семестр\Основы алг\Prac_13_1\Prac_13_1\bin\Debug\Prac_13_1.exe
+D:\2 Семестр\Основы алг\Prac_13_1\Prac_13_1\bin\Debug\Prac_13_1.pdb
+D:\2 Семестр\Основы алг\Prac_13_1\Prac_13_1\obj\Debug\Prac_13_1.csproj.AssemblyReference.cache
+D:\2 Семестр\Основы алг\Prac_13_1\Prac_13_1\obj\Debug\Prac_13_1.csproj.CoreCompileInputs.cache
+D:\2 Семестр\Основы алг\Prac_13_1\Prac_13_1\obj\Debug\Prac_13_1.exe
+D:\2 Семестр\Основы алг\Prac_13_1\Prac_13_1\obj\Debug\Prac_13_1.pdb
